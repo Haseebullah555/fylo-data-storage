@@ -110,7 +110,7 @@ body {
 }
 .message {
   position: relative;
-  background-color: var(--pale-Blue);
+  background-color: white;
   padding: 1.2rem;
   display: flex;
   align-items: center;
@@ -176,8 +176,8 @@ body {
     display: block;
     width: 0;
     height: 0;
-    border-right: 10px solid var(--pale-Blue);
-    border-top: 10px solid var(--pale-Blue);
+    border-right: 10px solid white;
+    border-top: 10px solid white;
     border-left: 10px solid transparent;
     border-bottom: 10px solid transparent;
   }
